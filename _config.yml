@@ -1,14 +1,14 @@
 
-title: My Resume
-url: 'http://oguzhanazari.github.io/'
-baseurl: '/online-cv' #change it according to your repository name
+title: My
+url: 'https://oguzhanazari.github.io/'
+baseurl: '' #change it according to your repository name
 
 
 # Enable one of these styles by removing #
 #style: styles-2
-style: styles-3
+#style: styles-3
 #style: styles-4
-#style: styles-5
+style: styles-5
 #style: styles-6
 
 
@@ -17,7 +17,7 @@ style: styles-3
 #Profile information
 name: Alan Doe
 tagline: Full Stack Developer
-pic: C:\Users\Oguzhan\Documents\GitHub\oguzhanazari.github.io\assets\images #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: \assets\images\profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: alan.doe@website.com
